@@ -1,0 +1,11 @@
+Model Information:
+* title:	Home
+* source:	https://sketchfab.com/3d-models/home-fa2c7c7bd8344cc3b16a92c7c09b27af
+* author:	DuduOliveira (https://sketchfab.com/DuduOliveira)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Home" (https://sketchfab.com/3d-models/home-fa2c7c7bd8344cc3b16a92c7c09b27af) by DuduOliveira (https://sketchfab.com/DuduOliveira) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
